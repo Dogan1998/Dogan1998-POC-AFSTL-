@@ -1,0 +1,11 @@
+pyyaml
+flask
+numpy
+pika
+redis
+arrow
+colorama
+retrying
+werkzeug==0.15.4
+flask-swagger
+flask-swagger-ui

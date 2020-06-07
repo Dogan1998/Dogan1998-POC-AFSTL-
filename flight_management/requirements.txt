@@ -1,0 +1,15 @@
+pyyaml
+flask
+numpy
+pika
+redis
+requests
+arrow
+pony
+colorama
+pymysql
+retrying
+mongoengine
+werkzeug==0.15.4
+flask-swagger
+flask-swagger-ui
