@@ -1,0 +1,6 @@
+projectKey=AfstL
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=AfstL
+ceTaskId=AXKOx6j6qL8YLLI6RBv4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXKOx6j6qL8YLLI6RBv4
